@@ -9,5 +9,3 @@ RUN npm install \
     node-red-contrib-modbus \
     node-red-contrib-influxdb \
     node-red-contrib-moment \
-    node-red-contrib-theme-midnight-red \
-    @node-red-contrib-themes/theme-collection
