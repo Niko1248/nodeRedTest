@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "DOCKERFILE",
+    "buildCommand": "docker build -t node-red ."
+  },
+  "deploy": {
+    "startCommand": "npm start -- --userDir /data"
+  }
+}
